@@ -29,18 +29,36 @@ Each edge is a pair of labels of internal nodes.  The program reads the trees an
 
 
 The detailed arguments are as follows. 
--i [file]    Input file containing the newick of two or more trees
 
--algo [algo]   Algo is either 'fast' or 'naive'.  Default is the O(n + d) fast algo, naive is O(n^3/w)
+> -i [file]   
 
--o [dir]   Output directory (existing files are overwritten).  Program outputs your trees with added internal node labels, plus the graph as an edge list for each tree pair.
+Input file containing the newick of two or more trees
 
--s [file]   If specified, write csv stats for each pair in given file
+> -algo [algo]   
 
--x [colname1,...,colnamex=val1,...,valx]   If specified, in the stats file, colnames will be added and values added on each line
+Algo is either 'fast' or 'naive'.  Default is the O(n + d) fast algo, naive is O(n^3/w)
 
--m [incomp|test_incomp|rnd]   incomp is the default, it computes the graph(s).  -m test_incomp tests 3 implementations to make sure the graphs are identical -m rnd generates random trees in output file.  In that case, add arguments -t [nb trees] -n [nb leaves], and if -x is set it adds an extra leaf under the root.Please specify an input file with -i [file]
+> -o [dir]   
 
+Output directory (existing files are overwritten).  Program outputs your trees with added internal node labels, plus the graph as an edge list for each tree pair.
+
+> -s [file]   
+
+If specified, write csv stats for each pair in given file.  Was useful to produce plots for the paper.
+
+> -x [colname1,...,colnamex=val1,...,valx]   
+
+If specified, in the stats file, colnames will be added and values added on each line.  Also for plots.
+
+> -m [incomp|test_incomp|rnd]   
+
+Different modes. 
+
+"-m incomp" is the default mode, it computes the graph(s).  
+
+"-m test_incomp" is for unit tests.  It tests three implementations to make sure the graphs are identical 
+
+"-m rnd" generates random trees in output file.  In that case, add arguments -t [nb trees] -n [nb leaves], and if -x is set it adds an extra leaf under the root.
 
 
 # Reproducing experiments
