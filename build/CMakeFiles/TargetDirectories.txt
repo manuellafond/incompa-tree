@@ -1,3 +1,0 @@
-/cygdrive/c/Users/lafm2722/git/incompa-tree/build/CMakeFiles/incomp.dir
-/cygdrive/c/Users/lafm2722/git/incompa-tree/build/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/lafm2722/git/incompa-tree/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++.exe  -std=c++1z -O3 -Wall -march=native -O3 -DNDEBUG -Wl,--enable-auto-import CMakeFiles/incomp.dir/main.cpp.o CMakeFiles/incomp.dir/newicklex.cpp.o -o incomp.exe -Wl,--out-implib,libincomp.dll.a -Wl,--major-image-version,0,--minor-image-version,0
