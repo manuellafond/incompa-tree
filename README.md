@@ -15,6 +15,8 @@ make
 ```
 Then run ./incomp with desired arguments.
 
+If you like Visual Studio, try to use the solution in the visual_studio_project directory, though this was not tested.
+
 # Usage 
 
 Basic usage is 
