@@ -1,0 +1,152 @@
+../trees_20.newick
+Ultranaive time  = 0.864272
+Naive time = 0.183564
+Fast time  = 0.101627
+Bad counter = 0
+../simphyout/pop_6_n_20_1.newick
+Ultranaive time  = 0.873574
+Naive time = 0.15799
+Fast time  = 0.084639
+Bad counter = 0
+../simphyout/pop_7_n_20_1.newick
+Ultranaive time  = 0.877489
+Naive time = 0.158529
+Fast time  = 0.086073
+Bad counter = 0
+../simphyout/pop_8_n_20_1.newick
+Ultranaive time  = 0.891048
+Naive time = 0.163661
+Fast time  = 0.089874
+Bad counter = 0
+../simphyout/pop_9_n_20_1.newick
+Ultranaive time  = 0.909092
+Naive time = 0.170594
+Fast time  = 0.097083
+Bad counter = 0
+../trees_50.newick
+Ultranaive time  = 6.02707
+Naive time = 0.883461
+Fast time  = 0.31692
+Bad counter = 0
+../simphyout/pop_6_n_50_1.newick
+Ultranaive time  = 6.38273
+Naive time = 0.720093
+Fast time  = 0.231555
+Bad counter = 0
+../simphyout/pop_7_n_50_1.newick
+Ultranaive time  = 6.44367
+Naive time = 0.716419
+Fast time  = 0.233445
+Bad counter = 0
+../simphyout/pop_8_n_50_1.newick
+Ultranaive time  = 6.30193
+Naive time = 0.725212
+Fast time  = 0.237958
+Bad counter = 0
+../simphyout/pop_9_n_50_1.newick
+Ultranaive time  = 6.65358
+Naive time = 0.806946
+Fast time  = 0.294447
+Bad counter = 0
+../trees_100.newick
+Ultranaive time  = 25.2978
+Naive time = 3.19368
+Fast time  = 0.715931
+Bad counter = 0
+../simphyout/pop_6_n_100_1.newick
+Ultranaive time  = 28.4463
+Naive time = 2.63094
+Fast time  = 0.492558
+Bad counter = 0
+../simphyout/pop_7_n_100_1.newick
+Ultranaive time  = 28.6175
+Naive time = 2.64628
+Fast time  = 0.497278
+Bad counter = 0
+../simphyout/pop_8_n_100_1.newick
+Ultranaive time  = 29.1287
+Naive time = 2.69299
+Fast time  = 0.525646
+Bad counter = 0
+../simphyout/pop_9_n_100_1.newick
+Ultranaive time  = 29.3326
+Naive time = 2.98953
+Fast time  = 0.675606
+Bad counter = 0
+../trees_200.newick
+Ultranaive time  = 112.293
+Naive time = 12.2247
+Fast time  = 1.6785
+Bad counter = 0
+../simphyout/pop_6_n_200_1.newick
+Ultranaive time  = 132.11
+Naive time = 9.93092
+Fast time  = 1.09004
+Bad counter = 0
+../simphyout/pop_7_n_200_1.newick
+Ultranaive time  = 132.447
+Naive time = 9.90904
+Fast time  = 1.09655
+Bad counter = 0
+../simphyout/pop_8_n_200_1.newick
+Ultranaive time  = 133.236
+Naive time = 10.0093
+Fast time  = 1.14205
+Bad counter = 0
+../simphyout/pop_9_n_200_1.newick
+Ultranaive time  = 132.663
+Naive time = 11.4095
+Fast time  = 1.60696
+Bad counter = 0
+../trees_500.newick
+Ultranaive time  = 791.745
+Naive time = 74.2406
+Fast time  = 5.58038
+Bad counter = 0
+../simphyout/pop_6_n_500_1.newick
+Ultranaive time  = 917.506
+Naive time = 58.729
+Fast time  = 2.92403
+Bad counter = 0
+../simphyout/pop_7_n_500_1.newick
+Ultranaive time  = 916.888
+Naive time = 58.7098
+Fast time  = 2.92097
+Bad counter = 0
+../simphyout/pop_8_n_500_1.newick
+Ultranaive time  = 923.71
+Naive time = 59.0374
+Fast time  = 3.05878
+Bad counter = 0
+../simphyout/pop_9_n_500_1.newick
+Ultranaive time  = 1007.02
+Naive time = 71.8423
+Fast time  = 5.41591
+Bad counter = 0
+../trees_1000.newick
+Ultranaive time  = 3929.63
+Naive time = 375.619
+Fast time  = 16.0259
+Bad counter = 0
+../simphyout/pop_6_n_1000_1.newick
+Ultranaive time  = 4653.06
+Naive time = 289.812
+Fast time  = 7.79389
+Bad counter = 0
+../simphyout/pop_7_n_1000_1.newick
+Ultranaive time  = 4666.54
+Naive time = 292.751
+Fast time  = 7.87852
+Bad counter = 0
+../simphyout/pop_8_n_1000_1.newick
+Ultranaive time  = 4127.61
+Naive time = 252.269
+Fast time  = 7.31029
+Bad counter = 0
+../simphyout/pop_9_n_1000_1.newick
+Ultranaive time  = 5288.31
+Naive time = 345.444
+Fast time  = 14.5767
+Bad counter = 0
+
+
